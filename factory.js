@@ -11,3 +11,4 @@ const petObject =(name, breed) => {
      `
 }
 console.log(petObject("Doberman", "I don't know"))
+console.log(petObject("mdsjf", "sdfksdjfh"))
